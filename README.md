@@ -1,5 +1,4 @@
-# PortofolioProjects
-COVID-19 Data Exploration and Analysis (SQL Server)
+# COVID-19 Data Exploration and Analysis (SQL Server)
 
 Developed a comprehensive data analysis project using real-world COVID-19 global datasets. The project involved writing complex SQL queries to:
 - Analyze case trends, death rates, and infection percentages by location and date
